@@ -23,7 +23,7 @@ class App extends React.Component {
   // test git in this file......
     gitChange() {
         const git = 'change';
-        let newGit = 'change2';
+        let newGit = 'change2 & test2';
     }
     playerClick(i, j) {
         if (this.state.boardState[i][j] === "") {
