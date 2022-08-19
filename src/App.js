@@ -20,7 +20,10 @@ class App extends React.Component {
         this.playerClick = this.playerClick.bind(this)
 
     }
-
+  // test git in this file......
+    gitChange() {
+        const git= 'change'
+    }
     playerClick(i, j) {
         if (this.state.boardState[i][j] === "") {
             const currBoardState = [...this.state.boardState]
