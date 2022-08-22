@@ -28,7 +28,7 @@ class App extends React.Component {
         //test2
 
         //new changeMerge
-        //and this is another branch
+        //and this is another branch and another shot at this
     }
     playerClick(i, j) {
         if (this.state.boardState[i][j] === "") {
