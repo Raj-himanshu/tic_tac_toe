@@ -28,6 +28,8 @@ class App extends React.Component {
         //test2
 
         //new change
+
+        //new change 2
     }
     playerClick(i, j) {
         if (this.state.boardState[i][j] === "") {
