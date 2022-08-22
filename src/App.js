@@ -27,9 +27,7 @@ class App extends React.Component {
         //test change 1
         //test2
 
-        //new change
-
-        //new change 2
+        //new changeMerge
     }
     playerClick(i, j) {
         if (this.state.boardState[i][j] === "") {
