@@ -26,6 +26,8 @@ class App extends React.Component {
         let newGit = 'change2 & test2';
         //test change 1
         //test2
+
+        //new change
     }
     playerClick(i, j) {
         if (this.state.boardState[i][j] === "") {
